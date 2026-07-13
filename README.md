@@ -1,9 +1,3 @@
-👩‍💻 Developed By
-
-Banka Likhitha
-
-Intern ID: CITS5247
-
 # 🤖 MyBot - AI Chatbot using Flask and ChatterBot
 
 ## 📌 Project Description
